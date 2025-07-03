@@ -5,3 +5,14 @@
     --ligth-color: #e8f7fb;
     --ligth-blue-color: #6f7dfd;
 }
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
